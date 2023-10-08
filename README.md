@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyomi-dev" alt="kyomi-dev" /></a> </p>
 
-- 🌱 I’m currently learning **RESTful API development and Linux**
+- 🌱 I’m currently learning **Back-end development and Linux**
 
 - 💬 Ask me about **Networks, back-end development, Linux and libre software**
 
