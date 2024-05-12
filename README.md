@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate backend developer willing to improve people`s lives with technology</h3>
+<h3 align="center">A passionate backend developer willing to improve our lives with technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyomi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kyomi-dev" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Back-end development and Linux**
 
-- 💬 Ask me about **Networks, back-end development, Linux and libre software**
+- 💬 Ask me about **Networks, C, back-end development, Linux and libre software**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
